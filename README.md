@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/ravikiran-anaparthi-60861a255/">
-  <img src="https://i.imgur.com/u6YtqLj.gif" alt="MasterHead" width="600" height="500">
+  <img src="https://i.imgur.com/u6YtqLj.gif" alt="MasterHead" width="300" height="300">
 </a>
 
 
