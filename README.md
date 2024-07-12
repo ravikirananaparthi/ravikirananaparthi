@@ -1,4 +1,7 @@
-[![MasterHead](https://i.imgur.com/u6YtqLj.gif)](https://www.linkedin.com/in/ravikiran-anaparthi-60861a255/)
+<a href="https://www.linkedin.com/in/ravikiran-anaparthi-60861a255/">
+  <img src="https://i.imgur.com/u6YtqLj.gif" alt="MasterHead" width="600" height="200">
+</a>
+
 
 <h1 align="center">Hi 👋, I'm Ravi Kiran</h1>
 <h3 align="center">A passionate Full Stack DEV from India</h3>
