@@ -17,8 +17,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikirananaparthi" alt="ravikirananaparthi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@__ravi" target="blank"><img src="https://img.shields.io/twitter/follow/@__ravi?logo=twitter&style=for-the-badge" alt="@__ravi" /></a> </p>
-
 - 🔭 I’m currently working on **NEXTJS**
 
 - 🌱 I’m currently learning **NextJS,TypeScript**
