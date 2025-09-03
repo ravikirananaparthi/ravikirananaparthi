@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **ravikirandev007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1psZsMCjwxPzfQvtrcss3Q1vp2A_tQEuQ/view](https://drive.google.com/file/d/1psZsMCjwxPzfQvtrcss3Q1vp2A_tQEuQ/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UQLCbJUt_4_frhj3tXloDaj3_UgLsbYv/view?usp=drive_link](https://drive.google.com/file/d/1UQLCbJUt_4_frhj3tXloDaj3_UgLsbYv/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
