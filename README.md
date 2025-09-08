@@ -5,7 +5,7 @@
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <div style="flex: 1;">
             <!-- Your content here -->
-        </div>
+        </div>    
         <div style="flex: 0;">
             <a href="https://www.linkedin.com/in/ravikiran-anaparthi-60861a255/">
                 <img src="https://firebasestorage.googleapis.com/v0/b/devfinds-ravi8130.appspot.com/o/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif?alt=media&token=258b8348-656a-4a3d-94aa-8b1fff53fb50" alt="MasterHead" width="%100">
